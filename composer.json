@@ -1,0 +1,22 @@
+{
+    "name": "gteixeira/math-expression-generator",
+    "description": "Gerador de expressões matemáticas e suas resoluções",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gteixeira\\MathExpressionGenerator\\": "src/"
+        },
+        "files": [
+            "config.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Gustavo Teixeira",
+            "email": "gteixeiradesousa7@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+}
